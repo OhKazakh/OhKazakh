@@ -10,7 +10,7 @@ Race analysis for every Grand Prix weekend since 2018: track replay, timing, tel
 
 **[GreenRanger](https://github.com/OhKazakh/greenranger-v2)** · [greenranger.kz](https://greenranger.kz)
 1st place out of 486 participants at Hack4Humanity. A map of verified recycling drop-off points in Astana, with filters by material, nearest open point and directions, in English, Russian and Kazakh.
-`Next.js` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Leaflet`
+`Next.js` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Google Maps`
 
 **AI translation pipeline** · private, built at tgo.gg
 Six language-specific models fine-tuned on 79,000+ bilingual sentence pairs taken from 6,700+ past documents. It replaced third-party translation services for marketing content in 14 languages and handled 100+ jobs a week.
