@@ -9,7 +9,7 @@ Race analysis for every Grand Prix weekend since 2018: track replay, timing, tel
 `Python` `scikit-learn` `pandas` `Plotly` `Streamlit` `FastF1` `Docker`
 
 **[GreenRanger](https://github.com/OhKazakh/greenranger-v2)** · [greenranger.kz](https://greenranger.kz)
-1st place out of 486 participants at Hack4Humanity. A map of verified recycling drop-off points in Astana, with filters by material, nearest open point and directions, in English, Russian and Kazakh.
+1st place out of 475 participants at Hack 4 Humanity 2025. A map of verified recycling drop-off points in Astana, with filters by material, nearest open point and directions, in English, Russian and Kazakh.
 `Next.js` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `Google Maps`
 
 **AI translation pipeline** · private, built at tgo.gg
